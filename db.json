@@ -1,0 +1,40 @@
+{
+	"collaborators": [
+		{
+			"code": "134",
+			"lastname": "Милов",
+			"firstname": "Евгений",
+			"middlename": "Владимирович",
+			"sex": "m",
+			"birth_date": "05.10.1985",
+			"login": "milov01",
+			"email": "milov01@globexit.ru",
+			"position_name": "senior backend developer",
+			"department_code": "sub_dev"
+		},
+		{
+			"code": "231",
+			"lastname": "Зидан",
+			"firstname": "Михаил",
+			"middlename": "Александрович",
+			"sex": "m",
+			"birth_date": "15.11.1997",
+			"login": "zidan1",
+			"email": "zidan1@globexit.ru",
+			"position_name": "senior fullstack developer",
+			"department_code": "sub_dev"
+		},
+		{
+			"code": "112",
+			"lastname": "Светова",
+			"firstname": "Светлана",
+			"middlename": "Владимировна",
+			"sex": "w",
+			"birth_date": "10.12.2001",
+			"login": "light",
+			"email": "light@globexit.ru",
+			"position_name": "senior hr manager",
+			"department_code": "sub_hire"
+		}
+	]
+}
